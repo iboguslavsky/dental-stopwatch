@@ -1,0 +1,8 @@
+.pio
+sdkconfig.*
+!sdkconfig.defaults
+include/config_local.h
+.vscode
+*.bin
+*.elf
+*.map
